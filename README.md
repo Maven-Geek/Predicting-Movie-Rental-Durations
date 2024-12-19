@@ -107,5 +107,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgements
 - The DVD rental dataset provided by the Datacamp.
 - Libraries and frameworks: scikit-learn, XGBoost, pandas, and NumPy.
-
-Feel free to modify or extend the project as needed for your use case.
