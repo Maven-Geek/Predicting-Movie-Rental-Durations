@@ -96,10 +96,7 @@ python main.py
 ```
 .
 ├── rental_info.csv       # Dataset
-├── preprocessing.py      # Data preprocessing scripts
-├── model_training.py     # Model training scripts
-├── evaluation.py         # Model evaluation scripts
-├── main.py               # Entry point for running the project
+├── notebook.ipynb      # Data preprocessing, model training, model evaluation
 ├── README.md             # Project documentation
 └── requirements.txt      # List of dependencies
 ```
