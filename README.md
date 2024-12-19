@@ -78,7 +78,7 @@ pip install pandas numpy scikit-learn xgboost
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/dvd-rental-prediction.git
+git clone https://github.com/Maven-Geek/dvd-rental-prediction.git
 cd dvd-rental-prediction
 ```
 
